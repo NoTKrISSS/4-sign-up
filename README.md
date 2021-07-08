@@ -8,7 +8,7 @@
 _30 group website project_
 
 
-Site published at https://notkrisss.github.io/4-Sign_up/
+Site published at https://notkrisss.github.io/4-sign-up/
 
 Design: [Sign up](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
