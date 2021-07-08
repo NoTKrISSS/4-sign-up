@@ -1,38 +1,5 @@
 body {
     background-color: #44b2c8;
-<<<<<<< HEAD
-  }
-  
-  .container {
-    display: inline-block;
-    width: 800px;
-    margin-top: 150px;
-    margin-left: calc(50% - 400px);
-  }
-  
-  .left-column {
-    width: 40%;
-    float: left;
-    padding: 40px;
-    padding-bottom: 20px;
-    background-color: #3f52b2;
-    color: #fff;
-  }
-  
-  h1 {
-  }
-  
-  a {
-    color: #fff;
-  }
-  
-  .right-column {
-    width: 60%;
-    float: left;
-    padding: 60px;
-    background-color: #fff;
-  }
-=======
 }
 
 .background {
@@ -97,4 +64,3 @@ body {
     top: 0;
     right: 0;
 }
->>>>>>> ba83af04e066e7fa758585cf33087b6defa7255c
